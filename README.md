@@ -11,7 +11,7 @@
 > `echo "Overwatch" >> videojuegos.txt`
 ---
 
-![imagen](IIN_Practica3_image.jpg)
+![imagen](image.jpg)
 
 # **AUTOR:** LARA 
 :star:
